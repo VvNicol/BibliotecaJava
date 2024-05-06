@@ -1,0 +1,10 @@
+06/05/2024 - Opcion Menu Principal: 2 - Alta Cliente
+06/05/2024 - Opcion Menu Principal: 3 - Alta Libro
+06/05/2024 - Opcion Menu Principal: 0 - Menu cerrado
+06/05/2024 21:17:31 - Opcion Menu Prestamo: 1 - Prestamo
+06/05/2024 21:18:01 - Opcion Menu Prestamo: 1 - Prestamo
+06/05/2024 21:18:26 - Opcion Menu Prestamo: 2 - Devolucion
+06/05/2024 21:42:39 - Opcion Menu Prestamo: 1 - Prestamo
+06/05/2024 21:42:47 - Opcion Menu Prestamo: 0 - Volver
+06/05/2024 - Opcion Menu Principal: 4 - Menu Prestamo
+06/05/2024 - Opcion Menu Principal: 0 - Menu cerrado
